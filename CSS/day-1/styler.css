@@ -1,0 +1,23 @@
+/* universal selector star(*) tag */
+/* *{
+    background-color: aqua;
+} */
+
+/* select by group */
+ /* p,h2,h3{
+    color: brown;
+ } */
+
+ /* select by attribute */
+ h2[draggable="true"]{
+    background-color: red;
+ }
+
+ /* select by descendent */
+ section p{
+    background-color: blue;
+ }
+/* select by child */
+ section >p{
+    background-color: green;
+ }

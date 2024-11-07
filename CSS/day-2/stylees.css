@@ -1,0 +1,23 @@
+/* change by rgba(red green blue alpha)  */
+/* range= 0-255 */
+h1{
+    color: rgba(43, 58, 130,0.3);
+    font-size:40px;
+    /* font size  */
+    /* pixel px */
+}
+/* change by color name */
+h2{
+    color:black;
+    font-size: 2em;
+}
+/* change by hexadecimal number */
+/* #tag use, 6 characters(0-f) */
+/* first 2 character show red color,next 2 for green,and next 2 for blue*/
+h3{
+    color: #27df8a;
+}
+p{
+    color: hsl(40,30% , 50%);
+}
+
