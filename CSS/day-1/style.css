@@ -1,0 +1,23 @@
+/*  select by element*/
+h1{
+    color:blue;
+    background-color: palegreen;
+}
+ul{
+    color: orchid;
+    background-color: yellow;
+}
+/* select by class name */
+/* you need to apply dot(.) first */
+.first{
+    background-color: goldenrod;
+    color:red;
+}
+/* select by id(unique) name */
+/* tou need to apply # first */
+#one{
+    background-color: aqua;
+}
+#two{
+    color: brown;
+}
