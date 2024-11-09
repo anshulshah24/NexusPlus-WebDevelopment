@@ -1,0 +1,29 @@
+.card {
+    width: 30vw;
+    height: 25vw;
+    background-color:cadetblue;
+    border: 5px yellowgreen solid;
+    padding: 10px;
+    margin: 40px 35vw 20px 35vw;
+    box-sizing: border-box;
+  }
+  h2 {
+    color:crimson;
+    text-align: center;
+  }
+  p,
+  h3 {
+    text-align: center;
+  }
+  body {
+    background-color:yellow;
+    font-size: 2vw;
+  }
+  
+  .card:hover h3 {
+    color:slateblue;
+  }
+  .card:hover {
+    background-color:springgreen;
+    transform: scale(1.3);
+  }
