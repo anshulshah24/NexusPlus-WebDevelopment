@@ -1,0 +1,42 @@
+.container{
+    background-color: aqua;
+    margin-top: 10px;
+    position: relative;
+    height: 1000px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    display: inline-block;
+   
+}
+
+.box1{
+    background-color: blanchedalmond;
+}
+.box2{
+    background-color: blue;
+    position: sticky;
+    top: 50px;
+}
+
+/* top bottom left right
+static
+relative
+absolute
+fixed 
+ sticky */
+
+.box3{
+    background-color: cadetblue;
+}
+
+.box4{
+    background-color: yellow;
+}
+.newcont{
+    height: 800px;
+    background-color: brown;
+}
