@@ -1,0 +1,29 @@
+.img1 {
+    height: 200px;
+    width:auto;
+    float: right;
+    margin-right: 15px;
+}
+
+.img2{
+    height: 200px;
+    width: 125px;
+    float: left;
+    margin-right: 10px;
+    
+}
+
+.img3{
+    height:200px;
+    width: auto;
+    float: left;
+    margin-right: 10px;
+
+}
+
+.img4{
+    height: 200px;
+    width: 125px;
+    float: right;
+    margin-right: 15px;
+}

@@ -1,0 +1,35 @@
+.box{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+ 
+}
+
+.container{
+    background-color: chartreuse;
+    margin-top: 100px;
+    margin-left: 100px;
+   
+} 
+
+.Box1{
+    background-color: violet;
+    position: relative;
+    left: 250px;
+    z-index: 7;
+}
+.Box2{
+    background-color: tomato;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    z-index: 11;
+}
+.Box3{
+    background-color: turquoise;
+    position: relative;
+    z-index: 15;
+}
+.Box4{
+    background-color: silver;
+}
