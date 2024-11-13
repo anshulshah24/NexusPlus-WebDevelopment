@@ -1,0 +1,23 @@
+header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+  }
+
+header h1{
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+}
+
+header ol{
+    margin-top: -10px;
+}
+
+
+  
+main{
+    margin-top: 200px;
+}
+
+  
